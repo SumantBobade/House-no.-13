@@ -1,0 +1,82 @@
+# Unity .gitignore
+
+# ============ Unity generated folders ============
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# ============ Auto generated files ============
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# ============ IDE ============
+
+.vs/
+.idea/
+.vscode/
+
+# ============ OS files ============
+
+.DS_Store
+Thumbs.db
+
+# ============ Unity cache ============
+
+Assets/AssetStoreTools*
+
+# ============ Build files ============
+
+*.apk
+*.aab
+*.app
+*.exe
+*.ipa
+*.unitypackage
+
+# ============ Addressables ============
+
+Assets/AddressableAssetsData/*/*.bin*
+
+# ============ Crash reports ============
+
+sysinfo.txt
+
+# ============ Documentation ============
+
+Documentation~
+
+# ============ Rider ============
+
+Assets/Plugins/Editor/JetBrains*
+
+# ============ Burst ============
+
+BurstDebugInformation/
+
+# ============ Gradle ============
+
+.gradle/
+
+# ============ IL2CPP ============
+
+il2cppOutput/
+
+# ============ Backup files ============
+
+*.bak

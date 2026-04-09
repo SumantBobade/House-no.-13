@@ -1,0 +1,2 @@
+D:\Game Dev\Flat no 13\Flat no 13\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Game Dev\Flat no 13\Flat no 13\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
