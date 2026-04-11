@@ -4,7 +4,8 @@ using UnityEngine.UI;
 public class DrawerOpening : MonoBehaviour
 {
     public Transform drawer;
-    public float openDistance = 1f;
+    public float openDistanceX = 0f;
+    public float openDistanceY = 0f;
     public float speed = 2f;
 
     private Vector3 closedPos;
@@ -15,7 +16,7 @@ public class DrawerOpening : MonoBehaviour
     void Start()
     {
         closedPos = drawer.localPosition;
-        openPos = closedPos + new Vector3(0, -openDistance, 0);
+        openPos = closedPos + new Vector3(openDistanceX, openDistanceY, 0);
     }
 
     void Update()
