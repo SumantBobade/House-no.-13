@@ -36,6 +36,21 @@ public class DrawerRaycast : MonoBehaviour
 
                 return;
             }
+
+            CupboardDoor door = hit.collider.GetComponent<CupboardDoor>();
+
+            if(door != null)
+            {
+                status.gameObject.SetActive(true);
+                status.text = door.IsOpen() ? "Press E to Close" : "Press E to Open";
+
+                if (Input.GetKeyDown(KeyCode.E))
+                {
+                    door.ToggleDoor();
+                }
+
+                return;
+            }
         }
 
         status.gameObject.SetActive(false);

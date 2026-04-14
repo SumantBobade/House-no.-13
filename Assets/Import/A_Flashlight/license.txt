@@ -1,0 +1,11 @@
+Model Information:
+* title:	A Flashlight
+* source:	https://sketchfab.com/3d-models/a-flashlight-28d76f5fe3cb4cf89533e91f58af23b0
+* author:	Jonnie (https://sketchfab.com/scaryrocker8)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A Flashlight" (https://sketchfab.com/3d-models/a-flashlight-28d76f5fe3cb4cf89533e91f58af23b0) by Jonnie (https://sketchfab.com/scaryrocker8) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
